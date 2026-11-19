@@ -10,7 +10,7 @@
 ![Project](https://img.shields.io/badge/Project-Educational-success)
 ![Records](https://img.shields.io/badge/Records-5%2C000-brightgreen)
 
-**Author: Rami Ashutos**
+**Author: Rami Ashutosh**
 
 </div>
 
@@ -300,7 +300,7 @@ After completing this project, students can:
 
 ## 👨‍💻 Author
 
-**Rami Ashutos**
+**Rami Ashutosh**
 
 *AI & Machine Learning Student*
 
